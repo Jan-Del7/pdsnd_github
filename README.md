@@ -7,7 +7,7 @@ Created on 18th June 2022
 Bikeshare project
 
 ### Description
-A project as required by Udacity's nanodegree program
+A project as required by Udacity's nanodegree program, which focuses on pandas library usage and simple statistics methods to perform analysis on the bikeshare data from three major cities in USA
 
 ### Files used
 Include the files used
